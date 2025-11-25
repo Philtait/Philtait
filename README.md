@@ -1,16 +1,18 @@
-## Hi there 👋
+### Hi there, I'm Philip Tait 👋
 
-<!--
-**Philtait/Philtait** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a third-year Computer Science student at **[@StrathmoreUniversity](https://github.com/StrathmoreUniversity)** with a strong foundation in full-stack web development and a growing passion for the world of Data Science.
 
-Here are some ideas to get you started:
+I enjoy building complete applications from the ground up, as demonstrated in my `Club-Management-System` project, which I developed and deployed on a live server. I am now channeling that same dedication into building my skills in data analysis, machine learning, and statistical modeling.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+-   🌱 I’m currently focused on deepening my knowledge in **Data Science methodologies**.
+-   💡 I'm actively looking for an **internship or attachment** where I can contribute to a data-driven team and gain hands-on experience.
+
+---
+
+### 🛠️ My Tech Stack
+
+| Languages          | Web & Deployment        | Databases & Tools       |
+| ------------------ | ----------------------- | ----------------------- |
+| `Python`           | `Flask`                 | `MySQL`                 |
+| `JavaScript`       | `Nginx`, `Gunicorn`     | `Git`, `GitHub`         |
+| `Kotlin`, `Java`   | `Microsoft Azure`       | `VS Code`               |
