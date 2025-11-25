@@ -13,6 +13,6 @@ I enjoy building complete applications from the ground up. You can see my work i
 
 | Languages          | Web & Deployment        | Databases & Tools       |
 | ------------------ | ----------------------- | ----------------------- |
-| `Python`           | `Flask`                 | `MySQL`                 |
+| `Python`           | `Flask`                 | `MySQL` `Firebase`      |
 | `JavaScript`       | `Nginx`, `Gunicorn`     | `Git`, `GitHub`         |
 | `Kotlin`, `Java`   | `Microsoft Azure`       | `VS Code`               |
