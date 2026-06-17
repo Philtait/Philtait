@@ -14,7 +14,7 @@ With a background in full-stack software development, I am increasingly focused 
 
 Currently, I serve as a Junior Smart Fellow at the iLabAfrica Research and Innovation Centre, where I contribute to research and innovation initiatives that apply data and emerging technologies to address development challenges.
 
-I am also a Co-Founder of the Strathmore Data Community (SDC), a student-led community of over 300 members dedicated to advancing data literacy through workshops, hackathons, mentorship programs, industry engagements, and collaborative learning opportunities.
+I am also the Founder of the Strathmore Data Community (SDC), a student-led community of over 300 members dedicated to advancing data literacy through workshops, hackathons, mentorship programs, industry engagements, and collaborative learning opportunities.
 
 ---
 
