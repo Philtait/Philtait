@@ -28,3 +28,11 @@ jobs:
           options: username=Philtait&layout=compact&bg_color=0f0c29&title_color=67e8f9&text_color=ffffff&hide_border=true
           path: profile/top-langs.svg
           token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Commit and push changes
+        run: |
+          git config --global user.name "GitHub Actions"
+          git config --global user.email "actions@github.com"
+          git add profile/
+          git diff --staged --quiet || git commit -m "chore: update stats cards"
+          git push
