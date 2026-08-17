@@ -79,9 +79,9 @@ I am also the Founder of the Strathmore Data Community (SDC), a student-led comm
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=Philtait&show_icons=true&hide_border=true&bg_color=0f0c29&title_color=67e8f9&icon_color=67e8f9&text_color=ffffff" alt="GitHub Stats" />
+  <img src="./profile/stats.svg" alt="GitHub Stats" />
   &nbsp;
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Philtait&layout=compact&hide_border=true&bg_color=0f0c29&title_color=67e8f9&text_color=ffffff" alt="Top Languages" />
+  <img src="./profile/top-langs.svg" alt="Top Languages" />
 </p>
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Philtait&hide_border=true&background=0f0c29&ring=67e8f9&fire=67e8f9&currStreakLabel=67e8f9&sideLabels=ffffff&dates=ffffff&currStreakNum=ffffff&sideNums=ffffff" alt="GitHub Streak" />
